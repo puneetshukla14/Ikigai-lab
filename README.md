@@ -13,7 +13,7 @@ In this weather app, you can get the weather details of a particular city by ent
 Live Demo : https://yashk9293.github.io/weather_webApp/
 
 ## Show some :heart: and :star: the repo if you like the design.
-![WeatherApp](https://github.com/yashk9293/weather_webApp/blob/master/images/demo_interface.png)
+![WeatherApp](https://github.com/yashk9293/weather_webApp/blob/main/images/demo_interface.png)
 
 ## Author
 
