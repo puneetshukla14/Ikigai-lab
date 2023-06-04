@@ -8,7 +8,7 @@
 </div>
 
 # "Simple Weather Application using HTML, CSS &amp; JavaScript"
-In this weather app, you can get the weather details of a particular city by entering the city name. Details like temperature in celcius, humidity, windspeed, current time, day and date of the city is provided. Weather emoji icon depending upon the weather condition is shown for better visualisation effect.
+In this weather app, you can get the weather details of a particular city by entering the city name. Details like temperature in celsius, humidity, windspeed, current time, day and date of the city is provided. Weather emoji icon depending upon the weather condition is shown for better visualisation effect.
 
 Live Demo : https://yashk9293.github.io/weather_webApp/
 
