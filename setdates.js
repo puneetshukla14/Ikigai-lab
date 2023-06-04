@@ -8,7 +8,6 @@ async function checkDate(city) {
     const response = await fetch(apiurl + apikey + `&q=${city}`);
         
     var data = await response.json();
-    console.log(data);
 
     const exactTime = data.location.localtime.split(" ")[1];
     const exactDate = data.location.localtime.split(" ")[0];
