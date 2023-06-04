@@ -61,3 +61,7 @@ api = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=${city}&ap
 ```javascript
 api = "https://api.weatherapi.com/v1/current.json?q=${city}&key=<your_api_key>";
 ```
+
+## LICENSE
+
+[MIT License](LICENSE)
