@@ -12,6 +12,7 @@ async function checkDate(city) {
     const exactTime = data.location.localtime.split(" ")[1];
     const exactDate = data.location.localtime.split(" ")[0];
     const exactDay = getDayFullName(new Date(exactDate).getDay());
+    <!--hc-->
     const exactMonth = getMonthFullName(new Date(exactDate).getMonth());
 
     const exactHour = exactTime.split(":")[0];
